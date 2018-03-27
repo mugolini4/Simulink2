@@ -9,3 +9,4 @@ Ad un certo punto qualcuno fa irruzione nella stanza, Icaro per via della musica
 
 2 - INT. CAMERA ANECOICA
 Icaro si risveglia e capisce che si era addormentato lavorando al PC della sua cella/studio/prigione. Non sappiamo da quanto tempo è lì dentro, ma la barba lievemente cresciuta fa intendere che sia lì da un po'. Alza la testa e si asciuga un rivolo di sangue che gli esce dal naso.
+L'AI della cella gli da il buongiorno.

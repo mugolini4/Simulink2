@@ -45,7 +45,7 @@ Icaro contempla l'orizzonte, l'AI è la sua assistente e lui è il capo della Ne
 OPPURE
 ------------------------
 
-4 - EXT. ARIA APERTA
+4 - EXT. ARIA APERTA (OPZIONALE)
 -------------------------
 Icaro cammina all'aperto (in un bel posto, nella natura).
 Non è più il nerd fuorilegge rintanato in casa. E' cambiato, da più valore alla vita, ma non teme più la morte.

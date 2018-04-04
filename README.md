@@ -48,5 +48,5 @@ OPPURE
 4 - EXT. ARIA APERTA
 -------------------------
 Icaro cammina all'aperto (in un bel posto, nella natura).
-E' cambiato, non è più il nerd fuorilegge rintanato in casa. E' cambiato, da più valore alla vita, ma non teme più la morte.
+Non è più il nerd fuorilegge rintanato in casa. E' cambiato, da più valore alla vita, ma non teme più la morte.
 (vedi discorso con l'AI nell'atto 2 sul perchè a Icaro interessi così tanto la sua libertà visto che comunque si limitata a stare rinchiuso fra le mura di casa sua: paradosso che l'AI ha fatto notare a Icaro per metterlo in crisi).

@@ -23,4 +23,15 @@ Icaro non sa rispondere, i test che sta facendo sì, lo fanno morire/svenire, ma
 Ed è qui che ha l'epifania: se vuole avere un ricordo persistente di ciò che avviene oltre la morte non può fare altro che inserire l'AI nell'algoritmo death() - LOL - e fargli vivere l'esperienza in prima persona, in modo tale da poterne sfruttare la sua coscienza sintetica (magari sputandola fuori come output). Sembra semplice, e l'AI, vogliosa di scoprire cosa sia la morte ne sarà entusiasta.
 
 L'AI ovviamente accetta (si è creata complicità tra l'AI e Icaro: per esempio lui le dice felice ed eccitato, scherzando: "Sei pronta a dire le tue ultime preghiere?" oppure una cacata simile). 
-Cosa si potrebbe far vedere qui? ESPERIENZA DI MORTE o lui che è TORNATO dall'esperienza?
+[ Cosa si potrebbe far vedere qui? ESPERIENZA DI MORTE o lui che è TORNATO dall'esperienza? ]
+
+Altro black out, altro risveglio di Icaro con sangue al naso o alla bocca o chi per lui. E' eccitato, ha funzionato, ricorda perfettamente tutto (ma non abbiamo fatto vedere ancora cos'è successo). Esulta un po' con l'AI.
+[Frase filosofica detta dall'AI sulla morte e su quello che per lei ha rappresentato].
+L'entusiasmo di Icaro si smorza di colpa e si trasforma in panico, si è appena ricordato che questo simulatore gli è stato commissionato, plausibilmente dalla Nemo. Sfrutterà questa invenzione per fare più soldi e avere sempre più controllo sulla mente delle persone vendendola nel mercato nero come droga (o legalmente come esperienza di lusso, non so, si può vedere). Questo perchè apparentemente morire è bellissimo, potrebbe davvero diventare "LA" droga per eccellenza. (potrebbe parlarne molto brevemente con l'AI, in modo che questa abbia capito cosa potrebbe accadere in seguito ed allarmarsi perchè ormai è dalla parte di Icaro).
+Icaro non ha neanche il tempo di impanicarsi o trovare una soluzione decente al problema, che la camera anecoica inizia a riempirsi di gas, Icaro sviene, si apre una porta ennesimo blackout.
+
+3 - INT. UFFICIO O STANZA BUIA
+---------------------------------------------
+Icaro si risveglia di colpo, ma è legato. L'AI non c'è, Icaro la chiama.
+Dialogo con il capo cattivo della Nemo blablabla (non so che potrebbero dirsi).
+Il capo vuole provare lui stesso il simulatore, avendo sentito i commenti positivi fatti da Icaro e l'AI nella camera anecoica.

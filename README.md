@@ -35,3 +35,18 @@ Icaro non ha neanche il tempo di impanicarsi o trovare una soluzione decente al 
 Icaro si risveglia di colpo, ma è legato. L'AI non c'è, Icaro la chiama.
 Dialogo con il capo cattivo della Nemo blablabla (non so che potrebbero dirsi).
 Il capo vuole provare lui stesso il simulatore, avendo sentito i commenti positivi fatti da Icaro e l'AI nella camera anecoica.
+Si impianta il chip (visiera, macchina o come sarà fatto sto simulatore). Inizialmente sembra andare tutto bene, si rilassa, come se stesse prendere dell'eroina, ma moltiplicato per mille. Ad una certa però qualcosa va storto: inizia ad urlare a spaventarsi, sembra che parli da solo, si agita. Infine muore, ma non si risveglia: l'AI l'ha ucciso.
+La sentiamo di nuovo nella stanza che parla con Icaro, magari si potrebbe solo lascaire intendere che sia stata lei, senza però fare lo spiegone.
+
+4 - INT. UFFICIO AI PIANI ALTI DI UN GRATTACIELO (OPZIONALE)
+-------------------------
+Icaro contempla l'orizzonte, l'AI è la sua assistente e lui è il capo della Nemo corp (così si potrebbe anche ricollegare al fatto che Icaro si è fatto prendere di proposito o cmq sperava lo prendessero per poter entrare in contatto con Nemo stesso e prendere il suo posto, ma boh la butto giù ma non sono sicura).
+
+OPPURE
+------------------------
+
+4 - EXT. ARIA APERTA
+-------------------------
+Icaro cammina all'aperto (in un bel posto, nella natura).
+E' cambiato, non è più il nerd fuorilegge rintanato in casa. E' cambiato, da più valore alla vita, ma non teme più la morte.
+(vedi discorso con l'AI nell'atto 2 sul perchè a Icaro interessi così tanto la sua libertà visto che comunque si limitata a stare rinchiuso fra le mura di casa sua: paradosso che l'AI ha fatto notare a Icaro per metterlo in crisi).
